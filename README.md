@@ -1,3 +1,3 @@
-# `**nexstar**`
+# **`nexstar`**
 
 NexStar es una plataforma de entretenimiento en línea que lleva la experiencia del karaoke a un nuevo nivel de diversión en equipo. Crea salas virtuales personalizadas donde los usuarios pueden reunirse, formar equipos y disfrutar de sesiones de karaoke interactivas. Con una amplia biblioteca de canciones para elegir, los jugadores pueden seleccionar sus favoritas, cantar en conjunto y participar en desafíos musicales emocionantes. Además de la función clásica de karaoke, NexStar ofrece la posibilidad de usar instrumentos virtuales, permitiendo a los usuarios acompañar sus actuaciones vocales. ¡Prepárate para vivir una experiencia única de música, colaboración y diversión en línea con NexStar!
